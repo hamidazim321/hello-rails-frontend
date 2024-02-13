@@ -74,7 +74,7 @@ you must have a code editor such as VSCode
 
 ### Setup
 
-Install Ruby and Rails on your local machine 
+Install Node on your local machine 
 
 ### Install
 
